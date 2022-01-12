@@ -21,3 +21,5 @@ datasets/spam
 datasets/words
 datasets/jsb_chorales
 
+rhuang/**/*.pkl
+rhuang/**/*.csv

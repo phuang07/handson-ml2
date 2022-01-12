@@ -1,0 +1,3 @@
+import data_fetcher as nyrr_fetcher
+
+nyrr_fetcher.concurrence_fetch_racer_info()
